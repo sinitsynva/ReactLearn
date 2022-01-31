@@ -1,0 +1,11 @@
+.Calc {
+ width: 200px;
+ min-height: 100px;
+ background-color: #283c35;
+ padding: 5px;
+ border: solid 1px black;
+ display: block;
+ margin-left: auto;
+ margin-right: auto;
+ font-size: calc(10px + 2vmin);
+}
